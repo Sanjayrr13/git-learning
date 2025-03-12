@@ -1,1 +1,2 @@
 "Hello git"
+"i'm currently adding some text to check wether i can push and pull the command/code" 
